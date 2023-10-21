@@ -1,5 +1,5 @@
 # ToDoList
-This repository contains the code for a todo list desktop app I built taking heavy inspiration from Sean Tracey's YouTube video which is linked in the README.
+This repository contains the code for a todo list desktop app I built, with heavy inspiration from Sean Tracey's YouTube video, to give me experience building simple GUIs with swing.
 
 Sean Tracey's video: https://www.youtube.com/watch?v=BQXjF7tw_MQ
 
